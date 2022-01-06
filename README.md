@@ -29,4 +29,10 @@ Na nossa primeira análise verificamos que se tratava de 1115 lojas ao todo, e e
 
 # Criação das Hipóteses e Mapa mental
 
+Antes de formularmos a hipótese. Tivemos a etapa de criação do mapa mental das possíveis KPI de cada unidade de trabalho dentro da ROSSMAN. O mapa mental foi interessante para termos uma ampla visão de quais unidades de negócios poderiam ter impacto no pedido do CFO e consequentemente na receita gerada na ROSSMAN. 
 
+![image](https://user-images.githubusercontent.com/94385953/148467582-f9d7c35a-77c8-4b36-a0dc-d065c0206717.png)
+
+Agora que já temos o mapa mental vamos para a Criação de Hipóteses: 
+
+* H1. 
