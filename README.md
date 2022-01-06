@@ -1,2 +1,4 @@
-# Predict-Time-Series
-Previsão de vendas para os próximos 6 dias. Porque o CFO da Rossman quer saber o melhor lugar para abrir novas lojas e tomar alguma decisão! 
+# Predict-Time-Series for ROSSMAN#
+![image](https://user-images.githubusercontent.com/94385953/148453046-6edc1ef8-ee07-4de2-acac-3c2271577379.png)
+
+
