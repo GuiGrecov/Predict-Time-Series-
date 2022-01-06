@@ -28,6 +28,6 @@ Com a primeira visualização da tabela abaixo foi possível termos uma visão g
 Na nossa primeira análise verificamos que se tratava de 1115 lojas ao todo, e essas tem uma renda média de 5744 dólares, com 633 clientes em média indo a suas lojas. Nos dados aparecem os dias que a loja estavam fechadas por isso temos dias que as lojas não tiveram receita. 
 
 
-# Criação das Hipóteses e o Mapa mental
+# Criação das Hipóteses e Mapa mental
 
 
