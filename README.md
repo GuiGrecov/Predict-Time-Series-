@@ -1,4 +1,3 @@
 # Predict-Time-Series for ROSSMAN#
-![image](https://user-images.githubusercontent.com/94385953/148453046-6edc1ef8-ee07-4de2-acac-3c2271577379.png)
-
+![image](https://user-images.githubusercontent.com/94385953/148453113-bb0cb6f0-159e-411c-8314-7f7093d8916f.png)
 
