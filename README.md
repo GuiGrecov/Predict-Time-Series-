@@ -16,8 +16,7 @@ O desafio seria implementar um modelo de Machine Learning que seria capaz de faz
 
 Utilizamos ao decorrer do projeto o método CRIPS-DS. O qual tem como premissa passar por todas etapas do projeto o mais rápido possível para chegar a solução sem perder tempo. No caso, podemos repetir o processo mais de uma vez para diminuir a margem de erro do nosso modelo. 
 
-![image](https://user-images.githubusercontent.com/94385953/148455277-acdd7e2a-7e16-42e6-aa0e-0e40b592f5a6.png)
-
+![image](https://user-images.githubusercontent.com/94385953/148467349-5f9b65f8-97e6-4396-b0e2-8a261d4fc290.png)
 
 # Planejamento da Solução 
 
