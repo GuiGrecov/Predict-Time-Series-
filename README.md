@@ -35,4 +35,8 @@ Antes de formularmos a hipótese. Tivemos a etapa de criação do mapa mental da
 
 Agora que já temos o mapa mental vamos para a Criação de Hipóteses: 
 
-* H1. 
+* <b> H1. Lojas com maior sortimentos deveriam vender mais. </b>
+<b>FALSA</b> Lojas com maior variedade de produtos venderam menos segundo os dados. 
+
+![image](https://user-images.githubusercontent.com/94385953/148467816-46810690-6ae3-4165-a335-4ce82d7a3bd5.png)
+
