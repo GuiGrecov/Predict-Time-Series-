@@ -33,10 +33,42 @@ Antes de formularmos a hipótese. Tivemos a etapa de criação do mapa mental da
 
 ![image](https://user-images.githubusercontent.com/94385953/148467582-f9d7c35a-77c8-4b36-a0dc-d065c0206717.png)
 
-Agora que já temos o mapa mental vamos para a Criação de Hipóteses: 
+Durante a etapa de validação de Hipóteses selecionamos 12 hipóteses para termos noção se seriam verdadeiras ou falsas. Com isso abaixo vamos comentar as hipóteses mais relevantes, que trazem maiores insights durante nossa análise: 
 
 * <b> H1. Lojas com maior sortimentos deveriam vender mais. </b>
 <b>FALSA</b> Lojas com maior variedade de produtos venderam menos segundo os dados. 
 
 ![image](https://user-images.githubusercontent.com/94385953/148467816-46810690-6ae3-4165-a335-4ce82d7a3bd5.png)
+
+* <b> H2. Lojas com competidores mais próximos deveriam vender menos. </b>
+<b>FALSA</b> Lojas com competidores mais próximos venderam MAIS. Isso se deve a fatores macroeconômicos. 
+
+![image](https://user-images.githubusercontent.com/94385953/148467923-f758442d-8b71-4c44-b5a7-662aa03168c8.png)
+
+
+* <b> H4. Lojas com promoções ativas por mais tempo deveriam vender mais. </b>
+<b>FALSA</b> Lojas com promoções extendidas venderam menos do que lojas sem promoções extendidas. 
+![image](https://user-images.githubusercontent.com/94385953/148468107-c3c4457e-46af-48b7-b672-525ecfe0abb0.png)
+
+Como podemos ver em função do tempo as lojas sem promoção extendida segue uma projeção positiva, ou seja, aumento de vendas. Enquanto lojas com promoções extendidas uma projeção negativa. 
+
+* <b> H10. Lojas deveriam vender mais no segundo semestre do ano. </b>
+<b>FALSA</b> Lojas vendem menos depois do segundo semestre do ano. 
+![image](https://user-images.githubusercontent.com/94385953/148468353-35024255-cd4e-4896-b305-99aa8809f1aa.png)
+
+Precisamos entender porque ocorre esse fenômeno (caso se eu trabalhasse na ROSSMAN - solicitaria os dados de campanhas pagas para o pessoal de marketing e estudaria possíveis requisições durante essa época marketshare) 
+
+* <b> H12. Lojas deveriam vender menos aos finais de semana. </b>
+<b>VERDADEIRO</b> Lojas vendem menos aos finais de semana
+![image](https://user-images.githubusercontent.com/94385953/148468590-6ddd8948-653b-4b6e-9c3c-732b2d1b7f49.png)
+
+
+
+
+
+
+
+
+
+
 
