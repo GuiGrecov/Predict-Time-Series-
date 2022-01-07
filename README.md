@@ -34,8 +34,8 @@ Antes de formularmos a hipótese. Tivemos a etapa de criação do mapa mental da
 Durante a etapa de validação de Hipóteses selecionamos 12 hipóteses para termos noção se seriam verdadeiras ou falsas. Com isso abaixo vamos comentar as hipóteses mais relevantes, que trazem maiores insights durante nossa análise: 
 
 
-* <b> H1. Lojas com maior sortimentos deveriam vender mais. </b>
-<b> /n FALSA</b> Lojas com maior variedade de produtos venderam menos segundo os dados. 
+* <b> H1. Lojas com maior sortimentos deveriam vender mais. </b> <br />
+<b>FALSA</b> Lojas com maior variedade de produtos venderam menos segundo os dados. 
 ![image](https://user-images.githubusercontent.com/94385953/148467816-46810690-6ae3-4165-a335-4ce82d7a3bd5.png)
 
 
