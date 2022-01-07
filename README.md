@@ -83,11 +83,8 @@ O modelo que escolhemos para utilizar na nossa predição foi o XGBoost Regresso
 
 
 # Modelo final utilizando a Random Search
-Tivemos os seguintes resultados utilizando o Random Search com 3000 de n_estimators
-![image](https://user-images.githubusercontent.com/94385953/148469141-cae938e5-dace-460b-8b94-9ea1bc68e4c7.png)
 O nosso RMSE (_Root Mean Squared Error_ - Erro médio Quadrado) foi de 1088.44, esse valor ficou um pouco mais alto por conta dos outliers, no segundo ciclo do CRISP podemos mudar alguns outliers para conseguirmos resultados melhores. 
-
-O nosso MPE (_Mean Percentage Error_ - Erro médio percentual) foi de: 
+O  MPE (_Mean Percentage Error_ - Erro médio percentual) foi de: 
 ![image](https://user-images.githubusercontent.com/94385953/148469263-9b196403-cd91-4e2e-aef1-6467c5966b83.png)
 Equivalente a mais ou menos 19% com superestimando os dados. 
 
