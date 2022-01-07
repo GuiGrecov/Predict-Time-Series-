@@ -110,7 +110,7 @@ O nosso modelo de previsão ficou muito parelho com os resultados de vendas, a m
 
 
 
-### Exportação de um csv | Ao final da notebook temos a opção do CFO conseguir ver a previsão por lojas baixando um csv:
+### Exportação de um csv contendo a previsão:
 
 ![image](https://user-images.githubusercontent.com/94385953/148469905-9e3b7dc5-d8ca-4db8-88e9-867e69fa9cc2.png)
 
