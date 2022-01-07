@@ -35,7 +35,7 @@ Durante a etapa de validação de Hipóteses selecionamos 12 hipóteses para ter
 
 
 * <b> H1. Lojas com maior sortimentos deveriam vender mais. </b>
-<b>FALSA</b> Lojas com maior variedade de produtos venderam menos segundo os dados. 
+<b> /n FALSA</b> Lojas com maior variedade de produtos venderam menos segundo os dados. 
 ![image](https://user-images.githubusercontent.com/94385953/148467816-46810690-6ae3-4165-a335-4ce82d7a3bd5.png)
 
 
