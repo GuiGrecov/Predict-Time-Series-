@@ -101,7 +101,7 @@ Ou seja o _erro médio absoluto percentual_ ficou controlado entre 0.2 e 0.1, so
 
 ![image](https://user-images.githubusercontent.com/94385953/148469656-5f6a7245-8a24-4a5f-ae02-232b39c850fb.png)
 
-A previsão ficou em R$ 287.260.416,00 teos ainda uma opção de pior cenário para tomadas de decisões mais protencionistas e temos a opção de melhor cenário. 
+A previsão ficou em  <b> R$ 287.260.416,00 </b> temos ainda uma opção de pior cenário para tomadas de decisões mais protencionistas e temos a opção de melhor cenário. 
 
 O nosso modelo de previsão ficou muito parelho com os resultados de vendas, a margem de erro ficou muito bem controlado. Abaixo temos a opção de um plot mostrando os resultados do modelo: 
 
