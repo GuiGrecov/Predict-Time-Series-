@@ -63,11 +63,53 @@ Precisamos entender porque ocorre esse fenômeno (caso se eu trabalhasse na ROSS
 ![image](https://user-images.githubusercontent.com/94385953/148468590-6ddd8948-653b-4b6e-9c3c-732b2d1b7f49.png)
 
 
+# Seleção de Variáveis para o modelo de Machine Learning 
+
+O "Boruta" (biblioteca do Python), selecionou as seguintes variáveis: 
+
+![image](https://user-images.githubusercontent.com/94385953/148468835-2804baa8-01f8-43df-b321-4cd6e82eb087.png)
+
+Agora vamos rodar essas variáveis selecionadas para a próxima etapa - Machine Learning Modelling (O modelo de Machine Learning escolhido). 
+
+# Machine Learning Modelling
+
+Rodamos um modelo de Cross validation com 5 ciclos de validação para englobarmos maiores hipóteses possíveis. Não rodamos mais de 5 vezes por conta do CRISP que tem como premissa passar por tudo mais rapidamente para conseguirmos enxergar o todo. 
+
+![image](https://user-images.githubusercontent.com/94385953/148469013-36d88a4e-c9c1-431a-820f-9dca54926965.png)
+
+O modelo que escolhemos para utilizar na nossa predição foi o XGBoost Regressor, fiquei em dúvida nesse ou na Random Forest, como a Random Forest já utilizei antes optei por algo novo e eficiente.
+
+# Modelo final utilizando a Random Search
+Tivemos os seguintes resultados utilizando o Random Search com 3000 de n_estimators
+![image](https://user-images.githubusercontent.com/94385953/148469141-cae938e5-dace-460b-8b94-9ea1bc68e4c7.png)
+O nosso RMSE (_Root Mean Squared Error_ - Erro médio Quadrado) foi de 1088.44, esse valor ficou um pouco mais alto por conta dos outliers, no segundo ciclo do CRISP podemos mudar alguns outliers para conseguirmos resultados melhores. 
+
+O nosso MPE (_Mean Percentage Error_ - Erro médio percentual) foi de: 
+![image](https://user-images.githubusercontent.com/94385953/148469263-9b196403-cd91-4e2e-aef1-6467c5966b83.png)
+Equivalente a mais ou menos 19% com superestimando os dados. 
+
+# Resultados | Previsão
+
+Tivemos o seguinte gráfico de MAPE x Store: 
+![image](https://user-images.githubusercontent.com/94385953/148469547-b6ae7b6b-952b-4ac4-9d47-725cf8e77cc3.png)
+Ou seja o _erro médio absoluto percentual_ ficou controlado entre 0.2 e 0.1, somente em alguns casos tivemos picos de 0.5
+
+## Performance Total | LUCRO
+
+![image](https://user-images.githubusercontent.com/94385953/148469656-5f6a7245-8a24-4a5f-ae02-232b39c850fb.png)
+
+A previsão ficou em R$ 287.260.416,00 teos ainda uma opção de pior cenário para tomadas de decisões mais protencionistas e temos a opção de melhor cenário. 
+
+O nosso modelo de previsão ficou muito parelho com os resultados de vendas, a margem de erro ficou muito bem controlado. Abaixo temos a opção de um plot mostrando os resultados do modelo: 
+
+![image](https://user-images.githubusercontent.com/94385953/148469819-78a31b1d-4f94-4663-bf1a-96d4c599e794.png)
 
 
+### Exportação de um csv | Ao final da notebook temos a opção do CFO conseguir ver a previsão por lojas baixando um csv:
 
+![image](https://user-images.githubusercontent.com/94385953/148469905-9e3b7dc5-d8ca-4db8-88e9-867e69fa9cc2.png)
 
-
+Link para acesso: 
 
 
 
