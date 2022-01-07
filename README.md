@@ -86,7 +86,7 @@ O modelo que escolhemos para utilizar na nossa predição foi o XGBoost Regresso
 O nosso RMSE (_Root Mean Squared Error_ - Erro médio Quadrado) foi de 1088.44, esse valor ficou um pouco mais alto por conta dos outliers, no segundo ciclo do CRISP podemos mudar alguns outliers para conseguirmos resultados melhores. 
 O  MPE (_Mean Percentage Error_ - Erro médio percentual) foi de: 
 ![image](https://user-images.githubusercontent.com/94385953/148469263-9b196403-cd91-4e2e-aef1-6467c5966b83.png)
-Equivalente a mais ou menos 19% com superestimando os dados. 
+                                               Equivalente a mais ou menos 19% com superestimando os dados. 
 
 
 
