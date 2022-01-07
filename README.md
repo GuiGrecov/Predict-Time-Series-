@@ -39,24 +39,24 @@ Durante a etapa de validação de Hipóteses selecionamos 12 hipóteses para ter
 ![image](https://user-images.githubusercontent.com/94385953/148467816-46810690-6ae3-4165-a335-4ce82d7a3bd5.png)
 
 
-* <b> H2. Lojas com competidores mais próximos deveriam vender menos. </b>
+* <b> H2. Lojas com competidores mais próximos deveriam vender menos. </b> <br />
 <b>FALSA</b> Lojas com competidores mais próximos venderam MAIS. Isso se deve a fatores macroeconômicos. 
 ![image](https://user-images.githubusercontent.com/94385953/148467923-f758442d-8b71-4c44-b5a7-662aa03168c8.png)
 
 
-* <b> H4. Lojas com promoções ativas por mais tempo deveriam vender mais. </b>
+* <b> H4. Lojas com promoções ativas por mais tempo deveriam vender mais. </b><br />
 <b>FALSA</b> Lojas com promoções extendidas venderam menos do que lojas sem promoções extendidas. 
 ![image](https://user-images.githubusercontent.com/94385953/148468107-c3c4457e-46af-48b7-b672-525ecfe0abb0.png)
 Como podemos ver em função do tempo as lojas sem promoção extendida segue uma projeção positiva, ou seja, aumento de vendas. Enquanto lojas com promoções extendidas uma projeção negativa. 
 
 
-* <b> H10. Lojas deveriam vender mais no segundo semestre do ano. </b>
+* <b> H10. Lojas deveriam vender mais no segundo semestre do ano. </b><br />
 <b>FALSA</b> Lojas vendem menos depois do segundo semestre do ano. 
 ![image](https://user-images.githubusercontent.com/94385953/148468353-35024255-cd4e-4896-b305-99aa8809f1aa.png)
 Precisamos entender porque ocorre esse fenômeno (caso se eu trabalhasse na ROSSMAN - solicitaria os dados de campanhas pagas para o pessoal de marketing e estudaria possíveis requisições durante essa época marketshare) 
 
 
-* <b> H12. Lojas deveriam vender menos aos finais de semana. </b>
+* <b> H12. Lojas deveriam vender menos aos finais de semana. </b><br />
 <b>VERDADEIRO</b> Lojas vendem menos aos finais de semana
 ![image](https://user-images.githubusercontent.com/94385953/148468590-6ddd8948-653b-4b6e-9c3c-732b2d1b7f49.png)
 
@@ -66,7 +66,7 @@ Precisamos entender porque ocorre esse fenômeno (caso se eu trabalhasse na ROSS
 
 O "Boruta" (biblioteca do Python), selecionou as seguintes variáveis: 
 
-![image](https://user-images.githubusercontent.com/94385953/148468835-2804baa8-01f8-43df-b321-4cd6e82eb087.png)
+![image](https://user-images.githubusercontent.com/94385953/148468835-2804baa8-01f8-43df-b321-4cd6e82eb087.png) 
 
 Agora vamos rodar essas variáveis selecionadas para a próxima etapa - Machine Learning Modelling (O modelo de Machine Learning escolhido). 
 
