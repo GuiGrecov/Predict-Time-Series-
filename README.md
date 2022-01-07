@@ -114,7 +114,7 @@ O nosso modelo de previsão ficou muito parelho com os resultados de vendas, a m
 
 ![image](https://user-images.githubusercontent.com/94385953/148469905-9e3b7dc5-d8ca-4db8-88e9-867e69fa9cc2.png)
 
-Link para acesso: 
+Link para acesso: https://github.com/GuiGrecov/Predict-Time-Series-/blob/main/datas/prediction_of_sales.csv
 
 
 
